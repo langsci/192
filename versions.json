@@ -1,6 +1,9 @@
 {"versions": [{"versiontype": "proofreading",
 	      "title": "Theory and description in African Linguistics",
-	      "authors": [{"name": "Emily Clem"},{"name":" Peter Jenks"},{"name":" Hannah Sande"}],
+	      "authors": [{"name": "Emily Clem"},
+			  {"name":"Peter Jenks"},
+			  {"name":" Hannah Sande"}
+			  ],
 	      "publishedAt": "2018-03-07T20:35:11.000Z"}
 	      ]
 }
